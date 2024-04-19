@@ -1,0 +1,1 @@
+Technology used: Java and AspectJ A twist on the traditional tic tac toe game, by leveraging AspectJ for increased code modularity in cross cutting concerns. Aspects check if a win occurs after a move is made, check if a draw occurs after a move is made, and update the board, switch players and allow a new move if the game is not over after each move occurs. 
